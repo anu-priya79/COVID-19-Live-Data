@@ -1,0 +1,48 @@
+body {
+    background-image: url("https://image.freepik.com/free-photo/white-virus-background_44769-1701.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    margin-left: 15vw;
+    margin-right: 15vw;
+}
+
+.center {
+    text-align: center;
+}
+button {
+    margin: auto;
+    display: block;
+    margin-top: 5vh;
+    padding: .8em;
+    width: 15vw;
+    background-color: rgb(61, 61, 61);
+    color: rgb(255, 255, 255);
+    border-radius: .3em;
+    border: 0;
+    box-shadow: 1px 1px 2px rgb(63, 63, 63);
+}
+button:hover {
+    background-color: rgb(77, 77, 77);
+}
+.sub-title {
+    background-color: coral;
+}
+
+.data {
+    background-color: cornflowerblue;
+}
+th {
+    padding: .8em;
+}
+td{
+    padding: 1em;
+}
